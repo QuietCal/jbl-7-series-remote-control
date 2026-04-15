@@ -12,7 +12,8 @@ Credit where credit is due. This app was built entirely via Codex, going from bl
 
 If you just want to run the controller on Windows, download the compiled executable here:
 
-- [Download JBL7SpeakerController.exe](https://github.com/QuietCal/jbl-7-series-remote-control/blob/main/dist/JBL7SpeakerController.exe)
+- [Download the latest Windows release](https://github.com/QuietCal/jbl-7-series-remote-control/releases/latest/download/JBL7SpeakerController.exe)
+- [Open the Releases page](https://github.com/QuietCal/jbl-7-series-remote-control/releases/latest)
 
 No build step is required. Download the `.exe`, keep `lsr7_controller_config.json` next to it if you want the bundled default config, and run it.
 
@@ -35,8 +36,8 @@ No build step is required. Download the `.exe`, keep `lsr7_controller_config.jso
 
 ### Windows Download
 
-1. Download [JBL7SpeakerController.exe](https://github.com/QuietCal/jbl-7-series-remote-control/blob/main/dist/JBL7SpeakerController.exe).
-2. Download [`dist/lsr7_controller_config.json`](https://github.com/QuietCal/jbl-7-series-remote-control/blob/main/dist/lsr7_controller_config.json) if you want the default config beside the executable.
+1. Download [JBL7SpeakerController.exe](https://github.com/QuietCal/jbl-7-series-remote-control/releases/latest/download/JBL7SpeakerController.exe).
+2. Download [lsr7_controller_config.json](https://github.com/QuietCal/jbl-7-series-remote-control/releases/latest/download/lsr7_controller_config.json) if you want the default config beside the executable.
 3. Run `JBL7SpeakerController.exe`.
 
 ### Run From Source
