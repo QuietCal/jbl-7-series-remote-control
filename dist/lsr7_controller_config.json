@@ -1,0 +1,11 @@
+{
+  "speaker_host": "192.168.2.145",
+  "network_interface": "Wireless LAN adapter Wi-Fi (192.168.2.132/24)",
+  "snapshot_root": "\\\\this",
+  "theme_mode": "dark",
+  "instant_update": false,
+  "confirm_writes": true,
+  "auto_refresh_after_write": true,
+  "debug_protocol": false,
+  "notes": "Primary control path is the JBL LSR7 WebSocket API on tcp/19273."
+}

@@ -1,0 +1,56 @@
+{
+  "device_model": "JBL 708P",
+  "mappings": [
+    {
+      "name": "level",
+      "address": {
+        "device": 0,
+        "virtual_device": 0,
+        "object_1": 0,
+        "object_2": 0,
+        "object_3": 0
+      },
+      "parameter_index": 0,
+      "data_type": "FLOAT32",
+      "min_value": -100.0,
+      "max_value": 20.0,
+      "use_percent": false,
+      "notes": "Placeholder. Replace with confirmed 708P level address.",
+      "group": "level"
+    },
+    {
+      "name": "mute",
+      "address": {
+        "device": 0,
+        "virtual_device": 0,
+        "object_1": 0,
+        "object_2": 0,
+        "object_3": 0
+      },
+      "parameter_index": 0,
+      "data_type": "UBYTE",
+      "min_value": 0,
+      "max_value": 1,
+      "use_percent": false,
+      "notes": "Placeholder. Replace with confirmed 708P mute address.",
+      "group": "level"
+    },
+    {
+      "name": "peq_band1_gain",
+      "address": {
+        "device": 0,
+        "virtual_device": 0,
+        "object_1": 0,
+        "object_2": 0,
+        "object_3": 0
+      },
+      "parameter_index": 0,
+      "data_type": "FLOAT32",
+      "min_value": -12.0,
+      "max_value": 12.0,
+      "use_percent": false,
+      "notes": "Placeholder. Replace with confirmed 708P PEQ band 1 gain address.",
+      "group": "peq"
+    }
+  ]
+}

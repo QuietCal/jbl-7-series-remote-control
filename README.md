@@ -1,5 +1,6 @@
-# jbl-7-series-remote-control
-An unofficial remote controller for JBL 7 Series monitors (705P/708P), enabling full network-based control.
+# JBL 7 Series Speaker Controller
+
+A open source remote controller for JBL 7 Series powered speakers.
 
 This project came about as reaction to "Wait, this speaker has a network port but I can't control it remotely?"
 
