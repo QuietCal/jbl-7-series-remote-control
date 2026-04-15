@@ -1,6 +1,6 @@
 # JBL 7 Series Speaker Controller
 
-An unofficial remote controller for JBL 7 Series powered monitors, built to make the network port on the speaker actually useful.
+An unofficial remote controller for JBL 7 Series powered monitors, built make all the inbuilt DSP of the speaker practically usable.
 
 This app gives you direct access to EQ, delay, trim, source, bass management, diagnostics, and live speaker-state browsing from a desktop UI. Instead of reaching behind the speaker or guessing at hidden DSP behavior, you can connect over the network and work in a focused control surface designed around real tuning workflows.
 
@@ -16,10 +16,10 @@ No build step is required. Download `JBL7SpeakerController.exe`, optionally keep
 
 ## Why It's Useful
 
-- Control JBL 7 Series speakers remotely from your desk instead of from the rear panel
-- View and edit important DSP settings in a cleaner layout
-- Use bounded controls for safer parameter entry where the speaker's limits are known
-- See EQ and crossover response graphs while working
+- DSP built into the speaker is now controllable while the speaker is placed in its final position
+- Works over WiFi or LAN, with speaker discovery on the same subnet
+- Uses bounded controls for reliable parameter entry
+- See EQ response graphs while working
 - Browse the live speaker tree and inspect protocol activity when you need deeper visibility
 
 ## Quick Start
