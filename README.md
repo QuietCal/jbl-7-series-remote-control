@@ -1,6 +1,6 @@
 # JBL 7 Series Speaker Controller
 
-An unofficial remote controller for JBL 7 Series powered monitors, built make all the inbuilt DSP of the speaker practically usable.
+An unofficial remote controller for JBL 7 Series powered monitor. This brings new value and flexibility to the 705P and 708P speakers by making the DSP of the speaker usable in situ.
 
 The app was developed and tested with a JBL 708P but should work equally well with a JBL 705P.
 
