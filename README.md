@@ -24,6 +24,24 @@ No build step is required. Download the `.exe`, keep `lsr7_controller_config.jso
 - A curated UI for the settings that are most useful in real use, organized in a logical fashion
 - Supporting reference docs for protocol mapping and optional reverse-engineering
 
+## Screenshots
+
+The app includes focused tabs for discovery, quick actions, EQ editing, graph overlays, live tree browsing, and diagnostics.
+
+### Overview
+
+![Overview tab](docs/screenshots/overview-tab.png)
+
+### Combined EQ
+
+![Combined EQ tab](docs/screenshots/combined-eq-tab.png)
+
+### Diagnostics
+
+![Diagnostics tab](docs/screenshots/diagnostics-tab.png)
+
+See the full screenshot gallery in [`docs/SCREENSHOTS.md`](docs/SCREENSHOTS.md).
+
 ## Current Status
 
 - Current working version: `1.1`

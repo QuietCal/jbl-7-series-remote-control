@@ -4,7 +4,6 @@
 __pycache__/
 build/
 crawl_logs/
-docs/screenshots/
 *.pyc
 *.pyo
 *.pyd
