@@ -8,6 +8,14 @@ With this tool, not only can you control all the EQ, delay, trim, source and oth
 
 Credit where credit is due. This app was built entirely via Codex, going from blank slate discovery to a working program in a few hours. It was further refined over a few evenings. AI is amazing.
 
+## Download The Prebuilt Controller
+
+If you just want to run the controller on Windows, download the compiled executable here:
+
+- [Download JBL7SpeakerController.exe](https://github.com/QuietCal/jbl-7-series-remote-control/blob/main/dist/JBL7SpeakerController.exe)
+
+No build step is required. Download the `.exe`, keep `lsr7_controller_config.json` next to it if you want the bundled default config, and run it.
+
 ## What This Project Is
 
 - A desktop controller for JBL 7 Series powered speakers
@@ -24,6 +32,14 @@ Credit where credit is due. This app was built entirely via Codex, going from bl
 - Built executable output: `dist/JBL7SpeakerController.exe`
 
 ## Quick Start
+
+### Windows Download
+
+1. Download [JBL7SpeakerController.exe](https://github.com/QuietCal/jbl-7-series-remote-control/blob/main/dist/JBL7SpeakerController.exe).
+2. Download [`dist/lsr7_controller_config.json`](https://github.com/QuietCal/jbl-7-series-remote-control/blob/main/dist/lsr7_controller_config.json) if you want the default config beside the executable.
+3. Run `JBL7SpeakerController.exe`.
+
+### Run From Source
 
 Run from the project folder:
 
