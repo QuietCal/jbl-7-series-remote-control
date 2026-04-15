@@ -8,9 +8,9 @@ This app gives you direct access to EQ, delay, trim, source, bass management, di
 
 If you just want to use the controller on Windows, start here:
 
-- [Download the latest Windows release](https://github.com/QuietCal/jbl-7-series-remote-control/releases/latest/download/JBL7SpeakerController.exe)
-- [Download the default config file](https://github.com/QuietCal/jbl-7-series-remote-control/releases/latest/download/lsr7_controller_config.json)
-- [Open the latest release page](https://github.com/QuietCal/jbl-7-series-remote-control/releases/latest)
+- [Download the latest Windows release](https://github.com/JonathonZener/jbl-7-series-remote-control/releases/latest/download/JBL7SpeakerController.exe)
+- [Download the default config file](https://github.com/JonathonZener/jbl-7-series-remote-control/releases/latest/download/lsr7_controller_config.json)
+- [Open the latest release page](https://github.com/JonathonZener/jbl-7-series-remote-control/releases/latest)
 
 No build step is required. Download `JBL7SpeakerController.exe`, optionally keep `lsr7_controller_config.json` beside it, and run the app.
 
